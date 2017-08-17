@@ -1,0 +1,1 @@
+{'_Id': 'R2N9N1X4XSC62J', 'MacAddress':'00:0C:29:01:98:27', 'verifiedAccount': 'true', 'physical_disability': 'visual', 'MemberId': 'A21FZXCBJ2P1KF', 'LastName':'Ramsay' , 'FirstName': 'Gordon', 'Language': 'English'}

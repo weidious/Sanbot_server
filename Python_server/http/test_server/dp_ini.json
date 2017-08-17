@@ -1,0 +1,37 @@
+[
+{
+	"ID": 0,
+	"first_name": "Steven",
+	"last_name": "Edouard",
+	"physical_disability": "hearing",
+	"Language": "English",
+	"phones": [
+		{
+			"MacAddress": "00:0C:29:01:98:27",
+			"phone_type": "iphone7"
+		},
+		{
+			"MacAddress": "00:0C:29:01:98:28",
+			"phone_type": "Samsung S7"	
+		}
+	]
+}
+,
+{
+	"ID": 1,
+	"first_name": "Gordon",
+	"last_name": "Ramsay",
+	"physical_disability": "visual",
+	"Language": "English",
+	"phones": [
+		{
+			"MacAddress": "00:0C:29:01:98:29",
+			"phone_type": "iphone6"
+		},
+		{
+			"MacAddress": 0,
+			"phone_type": "Investment"
+		}
+	]
+}	
+]

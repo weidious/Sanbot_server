@@ -1,0 +1,27 @@
+[
+{
+	"physical_address": "6480 Sprint Pkwy #13, Overland Park, KS 66251",
+	"longitude": {
+		"Min": -94.659995,
+		"Max": -94.659990
+	},
+	"latitude": {
+		"Min": 38.942712,
+		"Max": 38.942715
+	},
+	"client_ip": "127.0.0.1"
+}
+,
+{
+	"physical_address": "101 Winter Park, College Station, TX 77840",
+	"longitude": {
+		"Min": -96.322989,
+		"Max": -96.322980
+	},
+	"latitude": {
+		"Min": 30.642628,
+		"Max": 30.642635
+	},
+	"client_ip": "127.0.0.1"
+}
+]
